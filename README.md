@@ -82,7 +82,7 @@ jupyter notebook customer_analysis.ipynb
 
     <img src="imgs/top_products_by_month.png" alt="Top Products by Month" width="800" height="600">
 
-    [**Click here for interactive version**](imgs/top_products_by_month.html)
+    [**Click here for interactive version**](https://leo3622.github.io/customer_segmentation_analysis/imgs/top_products_by_month.html)
 
 <details> <summary><b>Monthly Detailed Insights (Click to Expand)</b></summary>
 
