@@ -10,7 +10,6 @@ The goal is to:
 - Identify products in high demand each month.
 - Understand seasonal effects (e.g., holiday season).
 - Provide **data-driven recommendations** for inventory and marketing strategies.
-- Showcase **data analytics and visualization** skills for portfolio purposes.
 
 ---
 
@@ -51,7 +50,7 @@ The goal is to:
 ## Tech Stack
 - Python: `pandas`, `matplotlib`, `seaborn`, `plotly`
 - Jupyter Notebook for analysis
-- GitHub Pages for hosting interactive charts (optional)
+- GitHub Pages for hosting interactive charts
 
 ---
 
